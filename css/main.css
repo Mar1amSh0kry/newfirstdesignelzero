@@ -32,12 +32,6 @@ body {
 }
 
 /*mobile*/
-@media (max-width: 767px) {
-
-    .container {
-        width: 750px;
-    }
-}
 
 /* Small Screens */
 @media (min-width: 768px) {
